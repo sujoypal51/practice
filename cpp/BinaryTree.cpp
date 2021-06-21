@@ -512,7 +512,7 @@ int main()
     // cout<<LCA(root,4,7)<<endl;
     // node* LCA=LCA2(root,4,7);
     // cout<<LCA->data<<endl;
-    cout<<maxpathsum(root)<<endl;
+    // cout<<maxpathsum(root)<<endl;
     return 0;
 }
 
